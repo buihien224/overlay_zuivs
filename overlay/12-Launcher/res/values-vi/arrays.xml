@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string-array name="all_app_category_list">
+        <item>Trò chơi</item>
+        <item>Trò chuyện và Mạng xã hội</item>
+        <item>Đọc Tin tức</item>
+        <item>Tiện ích Công cụ</item>
+        <item>Quản lý Tài chính</item>
+        <item>Nhạc chuông</item>
+        <item>Học tập thi cử</item>
+        <item>Dịch vụ Cuộc sống</item>
+        <item>Chụp ảnh đẹp</item>
+        <item>Phim và Video</item>
+        <item>Thể thao và Sức khỏe</item>
+        <item>Đi du lịch theo bản đồ</item>
+        <item>Mua sắm</item>
+        <item>Mẹ và Bé</item>
+        <item>Công cụ Hệ thống</item>
+    </string-array>
+
+    <string-array name="weather_types">
+        <item>Nắng</item>
+        <item>Âm u</item>
+        <item>Âm u đậm</item>
+        <item>Mưa phùn</item>
+        <item>Mưa rào</item>
+        <item>Mưa đá</item>
+        <item>Mưa tuyết</item>
+        <item>Mưa nhỏ</item>
+        <item>Mưa vừa</item>
+        <item>Mưa lớn</item>
+        <item>Bão</item>
+        <item>Bão lớn</item>
+        <item>Bão mạnh</item>
+        <item>Tuyết rơi nhẹ</item>
+        <item>Tuyết nhẹ</item>
+        <item>Tuyết vừa</item>
+        <item>Tuyết lớn</item>
+        <item>Cơn bão tuyết</item>
+        <item>Sương mù</item>
+        <item>Mưa đá</item>
+        <item>Bão cát</item>
+        <item>Mưa nhỏ đến vừa</item>
+        <item>Mưa vừa đến lớn</item>
+        <item>Mưa lớn đến cơn bão</item>
+        <item>Cơn bão đến bão mạnh</item>
+        <item>Bão đến cơn bão lớn</item>
+        <item>Tuyết nhẹ đến vừa</item>
+        <item>Tuyết vừa đến lớn</item>
+        <item>Tuyết lớn đến cơn bão tuyết</item>
+        <item>Bụi</item>
+        <item>Cát</item>
+        <item>Bão cát</item>
+        <item>Băng</item>
+        <item>Sương mù</item>
+    </string-array>
+
+</resources>

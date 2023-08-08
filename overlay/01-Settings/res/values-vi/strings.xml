@@ -4985,7 +4985,7 @@ Chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn.</string>
     <string name="network_dashboard_summary_mobile">Di động, Wi‑Fi, điểm phát sóng</string>
     <string name="network_dashboard_summary_no_mobile">Wi‑Fi, điểm phát sóng</string>
     <string name="network_dashboard_title">Mạng &amp; Internet</string>
-    <string name="network_detection">Phát hiện Thông minh Mạng</string>
+    <string name="network_detection">Kiểm tra mạng thông minh</string>
     <string name="network_disconnected">Đã ngắt kết nối</string>
     <string name="network_global">Toàn cầu</string>
     <string name="network_id">ID Mạng</string>

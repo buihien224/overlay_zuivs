@@ -964,7 +964,6 @@ Nếu bạn tiếp tục, có thể áp dụng các khoản phí cho việc sử
     <string name="fingerprint_dialog_use_fingerprint_instead">Không thể nhận diện khuôn mặt. Sử dụng dấu vân tay thay thế.</string>
     <string name="fingerprint_lockout_hint">Quá nhiều lần thử.
 Vuốt lên để mở khóa.</string>
-    <string name="fixed_settings_tiles_default">wifi,cell,bt</string>
     <string name="foggy">Sương mù</string>
     <string name="force_allow_on_external">Buộc cho phép ứng dụng trên bộ nhớ ngoài</string>
     <string name="force_allow_on_external_summary">Làm cho bất kỳ ứng dụng nào đủ điều kiện được ghi vào bộ nhớ ngoài, bất kể giá trị trong tệp manifest</string>
@@ -1562,9 +1561,6 @@ Quản trị viên IT của bạn có thể theo dõi và quản lý cài đặt
     <string name="nav_bar">Thanh điều hướng</string>
     <string name="nav_bar_default">(mặc định)</string>
     <string name="nav_bar_edge_panel">Thanh điều hướng Edge Panel</string>
-    <string name="nav_bar_layout">Bố cục</string>
-    <string name="nav_work_mode_dp_tile">wifi,bt,cell,screenshot,screenrecord,lockscreen</string>
-    <string name="nav_work_mode_pc_tile">wifi,bt,dnd,work,lenovoone,location,screenshot,screenrecord</string>
     <string name="nav_work_panel_display_volume">Âm lượng màn hình</string>
     <string name="nav_work_panel_media_volume">Âm lượng phương tiện</string>
     <string name="nav_work_panel_phone_volume">Âm lượng điện thoại</string>
@@ -2013,10 +2009,6 @@ Chạm vào tôi để cấp quyền.</string>
     <string name="quick_settings_secondary_label_until">Cho đến %s</string>
     <string name="quick_settings_settings_label">Cài đặt</string>
     <string name="quick_settings_tethering_label">Chia sẻ kết nối</string>
-    <string name="quick_settings_tiles">mặc định</string>
-    <string name="quick_settings_tiles_default">tjstudymode,wifi,cell,bt,airplane,work,lenovoone,mute,flashlight,study,rotation,location,dnd,camera,screenshot,screenrecord,androidscreenrecord,night,dark,battery,vibrate,autobright,readingmode,hotspot,custom(com.lenovo.levoice.caption/.service.MdTileService),calculator,lockscreen,custom(com.dolby.daxservice/.DaxTileService),tjstudymode,landmode,smartdisplay,turbofan,regionshot,custom(com.zui.safecenter/com.lenovo.xuipermissionmanager.service.BlackblockTileService),nfc,console,internet,controls,wallet,mictoggle,cameratoggle,dolbyatmos</string>
-    <string name="quick_settings_tiles_retail_mode">night,dark,dnd,flashlight,rotation,location</string>
-    <string name="quick_settings_tiles_stock">tjstudymode,wifi,cell,bt,airplane,work,lenovoone,mute,flashlight,study,rotation,location,dnd,camera,screenshot,screenrecord,androidscreenrecord,night,dark,battery,vibrate,autobright,readingmode,hotspot,custom(com.lenovo.levoice.caption/.service.MdTileService),calculator,lockscreen,custom(com.dolby.daxservice/.DaxTileService),tjstudymode,landmode,smartdisplay,turbofan,custom(com.zui.safecenter/com.lenovo.xuipermissionmanager.service.BlackblockTileService),levoice,console,regionshot,poweroff,reboot,vpn,menu,splitscreen,fiveg,nfc,internet,controls,wallet,mictoggle,cameratoggle,dolbyatmos</string>
     <string name="quick_settings_time_label">Thời gian</string>
     <string name="quick_settings_ui_mode_night_label">Chế độ tối</string>
     <string name="quick_settings_user_label">Tôi</string>

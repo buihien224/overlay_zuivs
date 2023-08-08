@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string-array name="network_switch_type_name">
+        <item>dữ liệu di động</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <array name="vendor_required_apps_managed_user" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Để thực hiện cuộc gọi và gửi tin nhắn qua Wi-Fi, hãy yêu cầu nhà mạng của bạn thiết lập dịch vụ này trước. Sau đó, bật lại cuộc gọi qua Wi-Fi từ Cài đặt. (Mã lỗi: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Có sự cố khi đăng ký cuộc gọi qua Wi-Fi với nhà mạng của bạn: %1$s</item>
+    </string-array>
+    <string-array name="zui_face_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Vui lòng tháo mặt nạ hoặc bất kỳ thứ gì che khuôn mặt của bạn.</item>
+        <item>Vui lòng mở mắt hoặc tháo bất kỳ thứ gì che khuôn mắt của bạn.</item>
+    </string-array>
+    <string-array name="zui_face_error_vendor">
+        <item>Nhập mã PIN, mật khẩu hoặc mẫu để sử dụng mở khóa khuôn mặt.</item>
+    </string-array>
+    <string-array name="zui_fingerprint_acquired_vendor">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Vị trí đặt ngón tay nên thay đổi một chút mỗi lần. Vui lòng thử lại.</item>
+        <item>Ngón tay đã được đăng ký, vui lòng sử dụng ngón tay khác.</item>
+    </string-array>
+
+</resources>
