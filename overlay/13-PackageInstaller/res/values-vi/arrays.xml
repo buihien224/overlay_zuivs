@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string-array name="app_permission_category">
+        <item>Liên quan đến phí</item>
+        <item>Liên quan đến quyền riêng tư</item>
+        <item>Liên quan đến đa phương tiện</item>
+        <item>Liên quan đến cài đặt</item>
+    </string-array>
+    <string-array name="app_permission_operate">
+        <item>Chấp nhận</item>
+        <item>Yêu cầu</item>
+        <item>Từ chối</item>
+    </string-array>
+    <string-array name="choose_mode_four2_state">
+        <item>Khi đang sử dụng ứng dụng</item>
+        <item>Yêu cầu</item>
+        <item>Từ chối</item>
+    </string-array>
+    <string-array name="choose_mode_four_state">
+        <item>Luôn luôn</item>
+        <item>Khi đang sử dụng ứng dụng</item>
+        <item>Yêu cầu</item>
+        <item>Từ chối</item>
+    </string-array>
+    <string-array name="choose_mode_three_state">
+        <item>Chấp nhận</item>
+        <item>Yêu cầu</item>
+        <item>Từ chối</item>
+    </string-array>
+    <string-array name="choose_mode_two2_state">
+        <item>Khi đang sử dụng ứng dụng</item>
+        <item>Từ chối</item>
+    </string-array>
+    <string-array name="choose_mode_two_state">
+        <item>Chấp nhận</item>
+        <item>Từ chối</item>
+    </string-array>
+    <string-array name="custom_perms_title">
+        <item>Quản lý quyền bởi hệ thống</item>
+        <item>Hỏi trước khi cấp quyền</item>
+        <item>Tin tưởng "%1$s"</item>
+        <item>Cài đặt nâng cao</item>
+    </string-array>
+    <string-array name="datePickerXMonth">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>CN</item>
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+    </string-array>
+    <string-array name="install_location_choose">
+        <item>Bộ nhớ điện thoại</item>
+        <item>Thẻ SD</item>
+    </string-array>
+
+    <string-array name="messcall_permsName">
+        <item>Gọi và Liên hệ</item>
+        <item>Tin nhắn và MMS</item>
+    </string-array>
+    <string-array name="op_to_perms_name">
+        <item>Xác định Vị trí</item>
+        <item>Xác định Vị trí</item>
+        <item>Xác định Vị trí</item>
+        <item>Rung</item>
+        <item>Đọc Danh bạ</item>
+        <item>Ghi Danh bạ</item>
+        <item>Đọc Nhật ký cuộc gọi</item>
+        <item>Ghi Nhật ký cuộc gọi</item>
+        <item>Truy cập Lịch</item>
+        <item>Truy cập Lịch</item>
+        <item>Xác định Vị trí</item>
+        <item>Đăng thông báo</item>
+        <item>Xác định Vị trí</item>
+        <item>Thực hiện Cuộc gọi</item>
+        <item>Đọc Hồ sơ SMS</item>
+        <item>Ghi Hồ sơ SMS</item>
+        <item>Nhận SMS</item>
+        <item>Nhận SMS</item>
+        <item>Nhận MMS</item>
+        <item>Nhận SMS</item>
+        <item>Gửi SMS</item>
+        <item>Đọc Hồ sơ SMS</item>
+        <item>Ghi Hồ sơ SMS</item>
+        <item>Chỉnh sửa Cài đặt Hệ thống</item>
+        <item>Hiển thị Cửa sổ lướt</item>
+        <item>Truy cập thông báo</item>
+        <item>Bật Camera</item>
+        <item>Bật Voice Recorder</item>
+        <item>Phát âm thanh</item>
+        <item>Đọc clipboard</item>
+        <item>Chỉnh sửa clipboard</item>
+        <item>Nút Đa phương tiện</item>
+        <item>Tập trung âm thanh</item>
+        <item>Âm lượng chính</item>
+        <item>Âm lượng giọng nói</item>
+        <item>Âm lượng chuông</item>
+        <item>Âm lượng phương tiện</item>
+        <item>Âm lượng báo thức</item>
+        <item>Âm lượng thông báo</item>
+        <item>Âm lượng Bluetooth</item>
+        <item>Giữ liên tục</item>
+        <item>Xác định Vị trí</item>
+        <item>Xác định Vị trí</item>
+        <item>Lấy thống kê sử dụng</item>
+        <item>Bật/tắt microphone</item>
+        <item>Cửa sổ toast</item>
+        <item>Chiếu phim</item>
+        <item>Kích hoạt VPN</item>
+        <item>Mở Wi-Fi</item>
+        <item>Bật Bluetooth</item>
+        <item>Gửi MMS</item>
+        <item>Đọc Hồ sơ MMS</item>
+        <item>Ghi Hồ sơ MMS</item>
+        <item>Tự động bắt đầu ứng dụng</item>
+        <item>Thay đổi NFC</item>
+        <item>Ghi Hồ sơ SMS</item>
+        <item>Ghi Hồ sơ MMS</item>
+        <item>Ghi Danh bạ</item>
+        <item>Ghi Nhật ký cuộc gọi</item>
+        <item>Bật Mạng di động</item>
+        <item>Lấy thông tin Thiết bị</item>
+        <item>Tạo Lối tắt trên Màn hình chính</item>
+        <item>Truy cập liên quan</item>
+        <item>Đọc Số điện thoại</item>
+        <item>Ghi Hình nền</item>
+        <item>Trợ giúp Cấu trúc</item>
+        <item>Trợ giúp Chụp màn hình</item>
+        <item>Đọc Trạng thái Điện thoại</item>
+        <item>Thêm Thư thoại</item>
+        <item>Sử dụng SIP</item>
+        <item>Xử lý Cuộc gọi đi ra</item>
+        <item>Sử dụng Vân tay</item>
+        <item>Sử dụng Cảm biến</item>
+        <item>Đọc Sóng phát sóng di động</item>
+        <item>Mô phỏng Vị trí</item>
+        <item>Đọc Bộ nhớ ngoài</item>
+        <item>Ghi Bộ nhớ ngoài</item>
+        <item>Bật Màn hình</item>
+        <item>Truy cập Chi tiết Tài khoản</item>
+    </string-array>
+
+    <string-array name="op_to_perms_name_zui">
+        <item>Ghi Hình nền</item>
+        <item>Trợ giúp Cấu trúc</item>
+        <item>Trợ giúp Chụp màn hình</item>
+        <item>Đọc Trạng thái Điện thoại</item>
+        <item>Thêm Thư thoại</item>
+        <item>Sử dụng SIP</item>
+        <item>Xử lý Cuộc gọi đi ra</item>
+        <item>Sử dụng Vân tay</item>
+        <item>Sử dụng Cảm biến</item>
+        <item>Đọc Sóng phát sóng di động</item>
+        <item>Mô phỏng Vị trí</item>
+        <item>Đọc Bộ nhớ ngoài</item>
+        <item>Ghi Bộ nhớ ngoài</item>
+        <item>Bật Màn hình</item>
+        <item>Truy cập Chi tiết Tài khoản</item>
+        <item>RUN_IN_BACKGROUND</item>
+        <item>AUDIO_ACCESSIBILITY_VOLUME</item>
+        <item>Đọc Số điện thoại</item>
+        <item>Yêu cầu Cài đặt Ứng dụng</item>
+        <item>Chế độ Hình trong Hình</item>
+        <item>Bắt đầu Ứng dụng Ngay lập tức</item>
+        <item>Trả lời Cuộc gọi điện thoại</item>
+        <item>Tự động bắt đầu ứng dụng</item>
+        <item>Mở Wi-Fi</item>
+        <item>Bật Bluetooth</item>
+        <item>Gửi MMS</item>
+        <item>Đọc Hồ sơ MMS</item>
+        <item>Ghi Hồ sơ MMS</item>
+        <item>Tạo Lối tắt trên Màn hình chính</item>
+        <item>Truy cập Hồ sơ SMS</item>
+        <item>Truy cập Hồ sơ MMS</item>
+        <item>Truy cập Danh bạ</item>
+        <item>Truy cập Nhật ký cuộc gọi</item>
+        <item>Bật Mạng di động</item>
+        <item>Truy cập Thư viện ảnh</item>
+        <item>Thay đổi NFC</item>
+        <item>Đọc ứng dụng đã cài đặt</item>
+        <item>Cửa sổ Keyguard</item>
+    </string-array>
+
+    <string-array name="perms_category">
+        <item>Liên lạc và Thông tin liên lạc</item>
+        <item>Liên quan đến Quyền riêng tư</item>
+        <item>Liên quan đến Đa phương tiện</item>
+        <item>Liên quan đến Cài đặt</item>
+    </string-array>
+
+    <string-array name="perms_mode">
+        <item>Chấp nhận</item>
+        <item>Từ chối</item>
+        <item>Hỏi</item>
+        <item>Không xác định</item>
+    </string-array>
+
+    <string-array name="perms_mode_five">
+        <item>Luôn luôn</item>
+        <item>Trong khi Sử dụng Ứng dụng</item>
+        <item>Từ chối</item>
+        <item>Hỏi</item>
+        <item>Không xác định</item>
+    </string-array>
+</resources>

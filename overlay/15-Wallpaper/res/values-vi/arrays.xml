@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string-array name="datePickerXMonth">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Chủ Nhật</item>
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
+    </string-array>
+    <string-array name="desktop_previewa_menu_list">
+        <item>Cài đặt màn hình</item>
+        <item>Cài đặt hình nền</item>
+        <item>Cài đặt màn hình và hình nền</item>
+        <item>Hủy</item>
+    </string-array>
+    <string-array name="lockscreen_previewa_menu_list">
+        <item>Cài đặt màn hình</item>
+        <item>Cài đặt hình nền (hình nền tĩnh)</item>
+        <item>Cài đặt màn hình và hình nền</item>
+        <item>Hủy</item>
+    </string-array>
+</resources>
