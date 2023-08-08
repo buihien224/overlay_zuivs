@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
 <resources>
+  <string name="applicationLabel">Danh bạ</string>
   <string name="action_edit_number_before_call">Chỉnh sửa số trước khi gọi</string>
   <string name="action_menu_overflow_description">Thêm tùy chọn</string>
   <string name="attach_photo_success">Cài đặt thành công</string>
