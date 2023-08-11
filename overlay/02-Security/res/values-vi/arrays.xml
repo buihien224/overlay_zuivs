@@ -279,6 +279,23 @@
         <item>START_FOREGROUND</item>
         <item>BLUETOOTH_SCAN</item>
         <item>USE_BIOMETRIC</item>
+        <item>Tự khởi chạy</item>
+        <item>Mở Wi-Fi</item>
+        <item>Bật Bluetooth</item>
+        <item>Gửi MMS</item>
+        <item>Đọc tin nhắn MMS</item>
+        <item>Viết và xóa tin nhắn MMS</item>
+        <item>Tạo lối tắt trên màn hình</item>
+        <item>Truy cập hồ sơ tin nhắn văn bản</item>
+        <item>Truy cập hồ sơ MMS</item>
+        <item>Truy cập danh bạ</item>
+        <item>Truy cập nhật ký cuộc gọi</item>
+        <item>Bật mạng di động</item>
+        <item>Truy cập thư viện</item>
+        <item>Đọc NFC</item>
+        <item>Đọc ứng dụng đã cài đặt</item>
+        <item>Đọc nội dung clipboard</item>
+        <item>Cửa sổ khóa</item>
     </string-array>
     <string-array name="perms_category">
         <item>Liên quan đến cuộc gọi và tin nhắn</item>

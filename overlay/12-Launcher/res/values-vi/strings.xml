@@ -618,11 +618,6 @@
   <string name="popup_container_iterate_children">popup_container_iterate_children</string>
   <string name="port_title">Điểm</string>
   <string name="pref_desk_layout_lock_toast">Bố cục màn hình chính đã khóa, bạn có thể mở khóa bằng cài đặt màn hình chính - khóa bố cục màn hình chính</string>
-  <string name="pref_double_click_guesture_default">không có</string>
-  <string name="pref_scroll_down_guesture_default">thông báo</string>
-  <string name="pref_scroll_up_guesture_default">Vị trí</string>
-  <string name="pref_scroll_up_guesture_default_overseas">menu</string>
-  <string name="pref_title_color_default_value">chủ đề</string>
   <string name="preview_page_add_new_empty_page">Thêm trang trống mới</string>
   <string name="preview_page_delete_this_preview_page">Xóa xem trước này</string>
   <string name="preview_page_scroll_format">Xem trang %1$d trên %2$d</string>

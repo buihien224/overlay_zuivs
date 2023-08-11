@@ -4,8 +4,6 @@
     <string name="copy" public="true">Sao chép</string>
     <string name="copyUrl" public="true">Sao chép URL</string>
     <string name="cut" public="true">Cắt</string>
-    <string name="defaultVoiceMailAlphaTag" public="true">Hộp thư thoại</string>
-    <string name="defaultMsisdnAlphaTag" public="true">MSISDN1</string>
     <string name="emptyPhoneNumber" public="true">(Không có số điện thoại)</string>
     <string name="httpErrorBadUrl" public="true">Không thể mở trang web vì URL không hợp lệ.</string>
     <string name="httpErrorUnsupportedScheme" public="true">Giao thức không được hỗ trợ.</string>
@@ -23,41 +21,9 @@
     <string name="dialog_alert_title" public="true">Chú ý</string>
     <string name="VideoView_error_text_invalid_progressive_playback" public="true">Video này không hợp lệ để phát trực tiếp lên thiết bị này.</string>
     <string name="selectTextMode" public="true">Chọn văn bản</string>
-    <string name="status_bar_notification_info_overflow" public="true">999+</string>
     <string name="fingerprint_icon_content_description" public="true">Biểu tượng vân tay</string>
     <string name="paste_as_plain_text" public="true">Dán dưới dạng văn bản thuần túy</string>
     <string name="autofill" public="true">Tự động điền</string>
-    <string name="config_helpPackageNameKey" public="true"></string>
-    <string name="config_helpPackageNameValue" public="true"></string>
-    <string name="config_helpIntentExtraKey" public="true"></string>
-    <string name="config_helpIntentNameKey" public="true"></string>
-    <string name="config_feedbackIntentExtraKey" public="true"></string>
-    <string name="config_feedbackIntentNameKey" public="true"></string>
-    <string name="config_defaultAssistant" public="true">com.lenovo.menu_assistant/.MainActivity</string>
-    <string name="config_defaultDialer" public="true">com.android.dialer</string>
-    <string name="config_defaultCallRedirection" public="true"></string>
-    <string name="config_defaultCallScreening" public="true"></string>
-    <string name="config_systemGallery" public="true">com.zui.gallery</string>
-    <string name="config_systemAutomotiveCluster" public="true"></string>
-    <string name="config_systemAutomotiveProjection" public="true"></string>
-    <string name="config_systemShell" public="true">com.android.shell</string>
-    <string name="config_systemContacts" public="true">com.android.contacts</string>
-    <string name="config_customMediaKeyDispatcher" public="true"></string>
-    <string name="config_customMediaSessionPolicyProvider" public="true"></string>
-    <string name="config_systemSpeechRecognizer" public="true"></string>
-    <string name="config_systemWifiCoexManager" public="true"></string>
-    <string name="config_systemWellbeing" public="true"></string>
-    <string name="config_systemTelevisionNotificationHandler" public="true"></string>
-    <string name="config_systemUiIntelligence" public="true"></string>
-    <string name="config_systemAmbientAudioIntelligence" public="true"></string>
-    <string name="config_systemAudioIntelligence" public="true"></string>
-    <string name="config_systemNotificationIntelligence" public="true"></string>
-    <string name="config_systemTextIntelligence" public="true"></string>
-    <string name="config_systemVisualIntelligence" public="true"></string>
-    <string name="config_systemActivityRecognizer" public="true"></string>
-    <string name="config_systemCompanionDeviceProvider" public="true"></string>
-    <string name="config_systemUi" public="true">com.android.systemui</string>
-    <string name="config_defaultRingtoneVibrationSound" public="true"></string>
     <string name="BaMmi">Chặn cuộc gọi</string>
     <string name="CLIRDefaultOffNextCallOff">Caller ID mặc định không bị hạn chế. Lần gọi tiếp theo: Không hạn chế</string>
     <string name="CLIRDefaultOffNextCallOn">Caller ID mặc định không bị hạn chế. Lần gọi tiếp theo: Bị hạn chế</string>
@@ -1184,86 +1150,6 @@ Thử lại sau %2$d giây.</string>
     <string name="media_route_status_in_use">Đang sử dụng</string>
     <string name="media_route_status_not_available">Không có sẵn</string>
     <string name="media_route_status_scanning">Đang quét...</string>
-    <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
-    <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
-    <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
-    <string name="mediasize_chinese_prc_1">PRC 1</string>
-    <string name="mediasize_chinese_prc_10">PRC 10</string>
-    <string name="mediasize_chinese_prc_16k">PRC 16K</string>
-    <string name="mediasize_chinese_prc_2">PRC 2</string>
-    <string name="mediasize_chinese_prc_3">PRC 3</string>
-    <string name="mediasize_chinese_prc_4">PRC 4</string>
-    <string name="mediasize_chinese_prc_5">PRC 5</string>
-    <string name="mediasize_chinese_prc_6">PRC 6</string>
-    <string name="mediasize_chinese_prc_7">PRC 7</string>
-    <string name="mediasize_chinese_prc_8">PRC 8</string>
-    <string name="mediasize_chinese_prc_9">PRC 9</string>
-    <string name="mediasize_chinese_roc_16k">ROC 16K</string>
-    <string name="mediasize_chinese_roc_8k">ROC 8K</string>
-    <string name="mediasize_iso_a0">ISO A0</string>
-    <string name="mediasize_iso_a1">ISO A1</string>
-    <string name="mediasize_iso_a10">ISO A10</string>
-    <string name="mediasize_iso_a2">ISO A2</string>
-    <string name="mediasize_iso_a3">ISO A3</string>
-    <string name="mediasize_iso_a4">ISO A4</string>
-    <string name="mediasize_iso_a5">ISO A5</string>
-    <string name="mediasize_iso_a6">ISO A6</string>
-    <string name="mediasize_iso_a7">ISO A7</string>
-    <string name="mediasize_iso_a8">ISO A8</string>
-    <string name="mediasize_iso_a9">ISO A9</string>
-    <string name="mediasize_iso_b0">ISO B0</string>
-    <string name="mediasize_iso_b1">ISO B1</string>
-    <string name="mediasize_iso_b10">ISO B10</string>
-    <string name="mediasize_iso_b2">ISO B2</string>
-    <string name="mediasize_iso_b3">ISO B3</string>
-    <string name="mediasize_iso_b4">ISO B4</string>
-    <string name="mediasize_iso_b5">ISO B5</string>
-    <string name="mediasize_iso_b6">ISO B6</string>
-    <string name="mediasize_iso_b7">ISO B7</string>
-    <string name="mediasize_iso_b8">ISO B8</string>
-    <string name="mediasize_iso_b9">ISO B9</string>
-    <string name="mediasize_iso_c0">ISO C0</string>
-    <string name="mediasize_iso_c1">ISO C1</string>
-    <string name="mediasize_iso_c10">ISO C10</string>
-    <string name="mediasize_iso_c2">ISO C2</string>
-    <string name="mediasize_iso_c3">ISO C3</string>
-    <string name="mediasize_iso_c4">ISO C4</string>
-    <string name="mediasize_iso_c5">ISO C5</string>
-    <string name="mediasize_iso_c6">ISO C6</string>
-    <string name="mediasize_iso_c7">ISO C7</string>
-    <string name="mediasize_iso_c8">ISO C8</string>
-    <string name="mediasize_iso_c9">ISO C9</string>
-    <string name="mediasize_japanese_chou2">Chou2</string>
-    <string name="mediasize_japanese_chou3">Chou3</string>
-    <string name="mediasize_japanese_chou4">Chou4</string>
-    <string name="mediasize_japanese_hagaki">Hagaki</string>
-    <string name="mediasize_japanese_jis_b0">JIS B0</string>
-    <string name="mediasize_japanese_jis_b1">JIS B1</string>
-    <string name="mediasize_japanese_jis_b10">JIS B10</string>
-    <string name="mediasize_japanese_jis_b2">JIS B2</string>
-    <string name="mediasize_japanese_jis_b3">JIS B3</string>
-    <string name="mediasize_japanese_jis_b4">JIS B4</string>
-    <string name="mediasize_japanese_jis_b5">JIS B5</string>
-    <string name="mediasize_japanese_jis_b6">JIS B6</string>
-    <string name="mediasize_japanese_jis_b7">JIS B7</string>
-    <string name="mediasize_japanese_jis_b8">JIS B8</string>
-    <string name="mediasize_japanese_jis_b9">JIS B9</string>
-    <string name="mediasize_japanese_jis_exec">JIS Exec</string>
-    <string name="mediasize_japanese_kahu">Kahu</string>
-    <string name="mediasize_japanese_kaku2">Kaku2</string>
-    <string name="mediasize_japanese_l">L</string>
-    <string name="mediasize_japanese_oufuku">Oufuku</string>
-    <string name="mediasize_japanese_you4">You4</string>
-    <string name="mediasize_na_ansi_c">ANSI C</string>
-    <string name="mediasize_na_ansi_d">ANSI D</string>
-    <string name="mediasize_na_ansi_e">ANSI E</string>
-    <string name="mediasize_na_ansi_f">ANSI F</string>
-    <string name="mediasize_na_arch_a">Arch A</string>
-    <string name="mediasize_na_arch_b">Arch B</string>
-    <string name="mediasize_na_arch_c">Arch C</string>
-    <string name="mediasize_na_arch_d">Arch D</string>
-    <string name="mediasize_na_arch_e">Arch E</string>
-    <string name="mediasize_na_arch_e1">Arch E1</string>
     <string name="mediasize_na_foolscap">Giấy Foolscap</string>
     <string name="mediasize_na_gvrnmt_letter">Thư Chính phủ</string>
     <string name="mediasize_na_index_3x5">Thẻ chỉ số 3x5</string>
@@ -2048,42 +1934,6 @@ Lắng nghe ở âm lượng cao trong thời gian dài có thể gây hại cho
     <string name="ssl_ca_cert_noti_managed">Bởi %s</string>
     <string name="ssl_certificate">Giấy chứng nhận bảo mật</string>
     <string name="ssl_certificate_is_valid">Giấy chứng nhận này hợp lệ.</string>
-    <string name="status_bar_airplane">chế độ máy bay</string>
-    <string name="status_bar_alarm_clock">đồng hồ báo thức</string>
-    <string name="status_bar_battery">pin</string>
-    <string name="status_bar_bluetooth">Bluetooth</string>
-    <string name="status_bar_call_strength">cường độ cuộc gọi</string>
-    <string name="status_bar_camera">máy ảnh</string>
-    <string name="status_bar_cast">phát trực tuyến</string>
-    <string name="status_bar_cdma_eri">cdma_eri</string>
-    <string name="status_bar_clock">đồng hồ</string>
-    <string name="status_bar_data_connection">kết nối dữ liệu</string>
-    <string name="status_bar_data_saver">tiết kiệm dữ liệu</string>
-    <string name="status_bar_ethernet">mạng Ethernet</string>
-    <string name="status_bar_headset">tai nghe</string>
-    <string name="status_bar_hotspot">điểm phát wifi</string>
-    <string name="status_bar_ime">hệ thống gõ</string>
-    <string name="status_bar_location">vị trí</string>
-    <string name="status_bar_managed_profile">hồ sơ quản lý</string>
-    <string name="status_bar_microphone">micro</string>
-    <string name="status_bar_mobile">điện thoại di động</string>
-    <string name="status_bar_mute">tắt âm</string>
-    <string name="status_bar_nfc">NFC</string>
-    <string name="status_bar_no_calling">không thực hiện cuộc gọi</string>
-    <string name="status_bar_phone_evdo_signal">tín hiệu điện thoại evdo</string>
-    <string name="status_bar_phone_signal">tín hiệu điện thoại</string>
-    <string name="status_bar_rotate">xoay</string>
-    <string name="status_bar_screen_record">ghi màn hình</string>
-    <string name="status_bar_secure">bảo mật</string>
-    <string name="status_bar_sensors_off">cảm biến tắt</string>
-    <string name="status_bar_speakerphone">loa ngoài</string>
-    <string name="status_bar_sync_active">đồng bộ hoạt động</string>
-    <string name="status_bar_sync_failing">đồng bộ lỗi</string>
-    <string name="status_bar_tty">TTY</string>
-    <string name="status_bar_volume">âm lượng</string>
-    <string name="status_bar_vpn">VPN</string>
-    <string name="status_bar_wifi">wifi</string>
-    <string name="status_bar_zen">chế độ Zen</string>
     <string name="stk_cc_ss_to_dial">Yêu cầu SS đã chuyển thành cuộc gọi thường</string>
     <string name="stk_cc_ss_to_dial_video">Yêu cầu SS đã chuyển thành cuộc gọi video</string>
     <string name="stk_cc_ss_to_ss">Chuyển thành yêu cầu SS mới</string>
