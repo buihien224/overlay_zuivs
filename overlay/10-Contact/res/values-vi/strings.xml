@@ -95,7 +95,7 @@
   <string name="not_call_out">Không trả lời</string>
   <string name="outgoing_call">Cuộc gọi đi</string>
   <string name="outgoing_call_duration">Gọi ra %1s</string>
-  <string name="outgoing_call_not_out">Không gọi đến</string>
+  <string name="outgoing_call_not_out">Không gọi được</string>
   <string name="password_toggle_content_description">Hiển thị mật khẩu</string>
   <string name="phone_account_alias_name">Máy cục bộ</string>
   <string name="qrcode_encode_tips_text">Quét mã hai chiều phía trên để thêm danh bạ vào sổ địa chỉ</string>

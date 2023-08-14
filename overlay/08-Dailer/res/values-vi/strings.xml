@@ -5,7 +5,6 @@
     <string name="action_delete_call_log">Xóa lịch gọi</string>
     <string name="answer_tip_for_slip">vuốt để trả lời</string>
     <string name="answervideo_tip_for_slip">vuốt để trả lời cuộc gọi video</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="applicationLabel_Contacts">Danh bạ</string>
     <string name="back_button_label">Quay lại</string>
     <string name="button_text_change_voice">Âm thanh</string>
@@ -34,7 +33,6 @@
     <string name="conference_num">%s người</string>
     <string name="config_export_vcard_type">mặc định</string>
     <string name="config_import_vcard_type">mặc định</string>
-
     <string name="config_prohibited_phone_number_regexp"/>
     <string name="contactGenericErrorToast">Lỗi khi lưu liên hệ</string>
     <string name="contacts_deleted_one_named_toast">Đã xóa %1$s</string>
@@ -66,12 +64,9 @@
     <string name="dtmf_tone_length_preference_key">button_dtmf_settings</string>
     <string name="edit_mode_delete_selected_items_dialog_title">Xóa mục đã chọn?</string>
     <string name="edit_mode_select_all">Chọn tất cả</string>
-
     <string name="edit_mode_unselect_all">Bỏ chọn tất cả</string>
     <string name="event_deactivated">Chế độ thú cưng đã tắt</string>
-    <string name="exporting_vcard_filename">contacts.vcf</string>
     <string name="fake_phone_activity_infoText_text">Số điện thoại đang gọi đến</string>
-    <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
     <string name="fake_phone_activity_placeCall_text">Cuộc gọi đến giả mạo</string>
     <string name="global_search_hint_find_contact">Tìm kiếm Liên hệ</string>
     <string name="groupCreateFailedToast">Không thể tạo nhãn</string>
@@ -136,7 +131,6 @@
     <string name="unblock_number_complete">Gỡ bỏ khỏi danh sách chặn thành công</string>
     <string name="unsupported_format">Định dạng không được hỗ trợ.</string>
     <string name="up_answer">Vuốt lên để trả lời</string>
-
     <string name="verizon_domestic_customer_support_display_number">(800) 922–0204</string>
     <string name="verizon_domestic_customer_support_number">+18009220204</string>
     <string name="verizon_terms_and_conditions_1.1_english">Visual Voice Mail (VVM) là dịch vụ cung cấp truy cập vào tin nhắn thoại trực tiếp trên thiết bị, mà không cần gọi *86. Dịch vụ này yêu cầu Tin nhắn thoại truyền thống nhưng không hỗ trợ tất cả các tính năng Tin nhắn thoại truyền thống, bạn có thể truy cập bằng cách gọi *86 từ điện thoại của bạn. Việc sử dụng tính năng này sẽ được tính theo cơ sở từng megabyte hoặc theo bất kỳ gói dữ liệu nào bạn có. Phút di động đến di động không áp dụng. Các mức giá tiêu chuẩn áp dụng cho bất kỳ cuộc gọi, email hoặc tin nhắn nào được khởi tạo từ Visual Voice Mail.
@@ -180,7 +174,6 @@
     <string name="voice_record_save_notifi_msg">Lưu ghi âm cuộc gọi</string>
     <string name="voice_record_save_toast_msg">Đã lưu vào danh sách ghi âm</string>
     <string name="voicemailMultiSelectDialogTitle">Xóa %1$s đã chọn?</string>
-    <string name="voicemail_notifications_key">voicemail_notification_key</string>
     <string name="voicemail_notifications_preference_title">Thông báo</string>
     <string name="voicemail_settings_select_sim_title">Chọn SIM cho cài đặt hộp thư thoại</string>
     <string name="windowpop_dismiss">Bỏ qua</string>
